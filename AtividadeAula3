@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8">
+        <title>Meu Primeiro Código</title>
+        <link rel="stylesheet" href="/style.css">
+    </head>    
+    <body>
+        <h1>Código Prático Otávio</h1>
+        <section>
+            <div class="section">
+        <p> OBJETIVO: Esse arquivo tem como objetivo a prática de programação com HTML e CSS</p>
+        </div>
+        </section>
+        <br>
+        <ul>
+            <li>Aline</li>
+            <li>João</li>
+            <li>Maria</li>
+        </ul>
+        <div class="table">
+        <table>
+            <tr>
+                <th>Nome</th>
+                <th>Idade</th>
+                <th>Altura</th>
+                <th>Ações</th>
+            </tr>
+            <tr>
+                <td>Aline</td>
+                <td>30</td>
+                <td>1.70</td>
+                <td>
+                    <button>Editar</button>
+                    <button>Excluir</button>
+                </td>
+            <tr>
+                <td>João</td>
+                <td>25</td>
+                <td>1.80</td>
+                <td>
+                    <button>Editar</button>
+                    <button>Excluir</button>
+                </td>
+            </tr>
+
+            <tr>
+                <td>Maria</td>
+                <td>28</td>
+                <td>1.65</td>
+                <td>
+                    <button>Editar</button>
+                    <button>Excluir</button>
+                </td>
+            </tr>
+            </div>
+        </table>
+        <br>
+        <br>
+        <div class="form">
+        <form>
+            <input type="text" placeholder="Nome da empresa">
+            <input type="text" placeholder="Adicione seu nome">
+            <input type="text" placeholder="Adicione sua idade">
+            <input type="text" placeholder="Adicione sua altura">
+            <input type="submit" value="Salvar">
+        </form>
+        </div>
+        
+    </body>
